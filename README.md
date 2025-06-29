@@ -75,12 +75,6 @@ DevOps Engineer | Full-Stack Developer
 
 ---
 
-### 📚 Other Skills & Domains  
-![R&D](https://img.shields.io/badge/R%26D-555555?logo=researchgate&logoColor=white)
-![English](https://img.shields.io/badge/English-Fluent-blue)
-![Teaching](https://img.shields.io/badge/Teaching-00B4D8?logo=academia&logoColor=white)
-![Full‑Stack Dev](https://img.shields.io/badge/Full%20Stack‑Dev-303030?logo=stackshare&logoColor=white)
-
 
 ---
 
