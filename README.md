@@ -28,11 +28,16 @@ DevOps Engineer | Full-Stack Developer
 
 ## 📊 GitHub Stats
 
-## 📊 Top Languages (Compact View)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 Top Languages (Full View)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&layout=compact&exclude_repo=big-repo1,big-repo2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
