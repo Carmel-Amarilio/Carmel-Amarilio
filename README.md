@@ -26,11 +26,17 @@ DevOps Engineer | Full-Stack Developer
 
 ---
 
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🤝 Let's Connect!
 
 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/carmel-amarilio/))  
-📬 Email: Amailio.carmel@gmail.com  
 🧠 [My Website]([https://example.com](https://carmel-amarilio.github.io/Carmel-Amarilio-web/))  
+📬 Email: Amailio.carmel@gmail.com  
 
 ---
 
