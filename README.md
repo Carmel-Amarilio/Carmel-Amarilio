@@ -68,9 +68,9 @@ DevOps Engineer | Full-Stack Developer
 
 ## 🤝 Let's Connect!
 
-💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/carmel-amarilio/))  
-🧠 [My Website]([https://example.com](https://carmel-amarilio.github.io/Carmel-Amarilio-web/))  
-📬 Email: Amailio.carmel@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/carmel-amarilio/)  
+🧠 [My Website](https://carmel-amarilio.github.io/Carmel-Amarilio-web/)  
+📬 Email: Amailio.carmel@gmail.com
 
 ---
 
