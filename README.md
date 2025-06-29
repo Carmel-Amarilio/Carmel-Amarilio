@@ -32,11 +32,20 @@ DevOps Engineer | Full-Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🧠 Technologies & Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&layout=compact&exclude_repo=big-repo1,big-repo2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Amarilio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| Language | Badge |
+|----------|-------|
+| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| Bash | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| HTML | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| CSS | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| React | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| Node.js | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| MongoDB | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
 
 
 ---
