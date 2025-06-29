@@ -73,8 +73,6 @@ DevOps Engineer | Full-Stack Developer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
----
-
 
 ---
 
